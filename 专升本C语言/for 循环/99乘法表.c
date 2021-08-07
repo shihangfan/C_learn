@@ -14,7 +14,7 @@ int main()
         printf("%d*%d=%d\t", i, j, sum);
       }
     }
-    printf("\n");
+
     printf("\n");
   }
 }
