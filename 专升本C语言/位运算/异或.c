@@ -8,6 +8,7 @@ int main()
   a = a ^ b;
 
   printf("a=%d", a);
+
   printf("\n");
   printf("b=%d", b);
 }
